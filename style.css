@@ -190,12 +190,9 @@ header {
 
 .s-name {
     margin-top: 30px;
+    font-size: 26px;
 }
 
-.projectlist,
-.s-name {
-    font: size 26px;
-}
 
 #contact {
     padding: 30px 100px;
