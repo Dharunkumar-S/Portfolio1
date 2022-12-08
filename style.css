@@ -83,7 +83,7 @@ header {
 
 .title {
     text-align: center;
-    text-decoration: inderline;
+    text-decoration: underline;
 }
 .content {
     font-family: var(--josefinsans);
