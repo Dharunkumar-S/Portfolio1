@@ -191,6 +191,7 @@ header {
 .s-name {
     margin-top: 30px;
     font-size: 26px;
+    font-weight: 500;
 }
 
 
@@ -273,5 +274,9 @@ header {
     .projectlist .proj1 {
         font-size: 12px !important;
         font-weight: 500;
+    }
+    .s-name{
+        font-size: 14px;
+        font-weight: 550;
     }
 }
