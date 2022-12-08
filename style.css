@@ -196,7 +196,9 @@ header {
     padding: 30px 100px;
     font-family: var(--josefinsans);
 }
-
+.proj1{
+    font-size: 20px;
+}
 .footer {
     display: flex;
     flex-direction: column;
