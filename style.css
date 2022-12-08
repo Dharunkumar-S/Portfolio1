@@ -81,7 +81,10 @@ header {
     aspect-ratio: 1/1;
 }
 
-
+.title {
+    text-align: center;
+    text-decoration: inderline;
+}
 .content {
     font-family: var(--josefinsans);
     line-height: 35px;
