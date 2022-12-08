@@ -267,8 +267,14 @@ header {
     .skillslist {
         margin: 50px 0px;
     }
+
     .projectlist .proj1 {
         font-size: 12px !important;
         font-weight: 500;
+    }
+
+    .projectlist,
+    .skillslist {
+        font: size 26px;
     }
 }
