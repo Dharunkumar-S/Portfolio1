@@ -102,16 +102,16 @@ header {
 
 .name {
     color: red;
-    font-size: 30px !important;
+    font-size: 40px !important;
 }
 .job{
-    font-size: 22px;
+    font-size: 32px;
 }
 .degree{
-    font-size: 18px;
+    font-size: 30px;
 }
 .position{
-    font-size: 20px;
+    font-size: 28px;
 }
 
 .about {
