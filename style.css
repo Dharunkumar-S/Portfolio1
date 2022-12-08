@@ -192,6 +192,11 @@ header {
     margin-top: 30px;
 }
 
+.projectlist,
+.s-name {
+    font: size 26px;
+}
+
 #contact {
     padding: 30px 100px;
     font-family: var(--josefinsans);
@@ -271,10 +276,5 @@ header {
     .projectlist .proj1 {
         font-size: 12px !important;
         font-weight: 500;
-    }
-
-    .projectlist,
-    .skillslist {
-        font: size 26px;
     }
 }
