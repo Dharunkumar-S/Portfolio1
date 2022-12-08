@@ -83,8 +83,7 @@ header {
 
 .title {
     text-align: center;
-    text-decoration: underline;
-    text-decoration-color: red;
+    color: red;
 }
 .content {
     font-family: var(--josefinsans);
@@ -212,7 +211,7 @@ header {
 }
 
 .title1 {
-    border-bottom: 2px solid red;
+    color: red;
 }
 
 @media (max-aspect-ratio:16/9) {
