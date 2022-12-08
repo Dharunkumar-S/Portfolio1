@@ -231,7 +231,9 @@ header {
     .navbar ul li:nth-child(5) {
         display: none;
     }
-
+    .about p {
+        font-size: 14px;
+    }
     .skillslist {
         margin: 70px 0px;
     }
